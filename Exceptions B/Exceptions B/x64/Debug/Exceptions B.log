@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\chris\source\repos\Exceptions B\Exceptions B\Source.cpp(49,39): warning C4101: 'exception1': unreferenced local variable
+C:\Users\chris\source\repos\Exceptions B\Exceptions B\Source.cpp(55,34): warning C4101: 'exception2': unreferenced local variable
+C:\Users\chris\source\repos\Exceptions B\Exceptions B\Source.cpp(61,36): warning C4101: 'exception3': unreferenced local variable
+  Exceptions B.vcxproj -> C:\Users\chris\source\repos\Exceptions B\x64\Debug\Exceptions B.exe
